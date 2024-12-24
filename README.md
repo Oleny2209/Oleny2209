@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Oleny2209/Oleny2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://visitcount.itsvg.in/api?id=Oleny2209&icon=0&color=10)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+----------------------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+✨+Im+Oleny+Developer+✨;" />
+    <br/>
+🔭 I’m currently study on Nong Lam University
+    <br/>
+🌱 I’m currently learning Java
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/><br/><br/>
+</div>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleny2209&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleny2209&show_icons=true&theme=radical)
+
+
+
