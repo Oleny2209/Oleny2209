@@ -8,9 +8,10 @@
 🔭 I’m currently study on Nong Lam University
     <br/>
 🌱 I’m currently learning Java
-</h1>
+</h1> 
 
- <br/><br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=,idea,java,figma,js,html,css)](https://skillicons.dev)
+
 </div>
 <hr/>
 
@@ -18,6 +19,8 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleny2209&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleny2209&show_icons=true&theme=radical)
 
